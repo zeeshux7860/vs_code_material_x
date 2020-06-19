@@ -1,0 +1,107 @@
+{
+  "Start Widget StatefullWidget": {
+    "prefix": "sstf",
+    "body": [
+      "import 'package:material_x/material_x.dart';",
+      "",
+      "void main() {",
+      "  runApp(MyApp());",
+      "}",
+      "",
+      "class MyApp extends StatelessWidget {",
+      "  @override",
+      "  Widget build(BuildContext context) {",
+      "    return $1().mxMaterialApp();",
+      "  }",
+      "}",
+      "",
+      "class $1 extends StatefulWidget {",
+      "  @override",
+      "  _$1State createState() => _$1State();",
+      "}",
+      "",
+      "class _$1State extends State<$1> {",
+      "  @override",
+      "  Widget build(BuildContext context) {",
+      "    return mxListView.list([",
+      "",
+      "    ]).mxScaffold();",
+      "  }",
+      "}",
+      ""
+    ],
+    "description": "Start Widget"
+  },
+  
+  "Start Widget StatelessWidget": {
+    "prefix": "sst",
+    "body": [
+      "import 'package:material_x/material_x.dart';",
+      "",
+      "void main() {",
+      "  runApp(MyApp());",
+      "}",
+      "",
+      "class MyApp extends StatelessWidget {",
+      "  @override",
+      "  Widget build(BuildContext context) {",
+      "    return $1().mxMaterialApp();",
+      "  }",
+      "}",
+      "",
+      "class $1 extends StatelessWidget {",
+      "",
+      "  @override",
+      "  Widget build(BuildContext context) {",
+      "    return mxListView.list([",
+      "",
+      "    ]).mxScaffold();",
+      "  }",
+      "}",
+      ""
+    ],
+    "description": "Start Widget"
+  },
+  "Widgetstless": {
+    "prefix": "mstless",
+    "body": [
+      "import 'package:material_x/material_x.dart';",
+      "",
+      "",
+      "class $1 extends StatelessWidget {",
+      "",
+      "  @override",
+      "  Widget build(BuildContext context) {",
+      "    return mxListView.list([",
+      "",
+      "    ]).mxScaffold();",
+      "  }",
+      "}",
+      ""
+    ],
+    "description": "Widget"
+  },
+  "Widgetstfull": {
+  "prefix": "mstfull",
+	"scope": "dart",
+    "body": [
+      "import 'package:material_x/material_x.dart';",
+      "",
+      "class $1 extends StatefulWidget {",
+      "  @override",
+      "  _$1State createState() => _$1State();",
+      "}",
+      "",
+      "class _$1State extends State<$1> {",
+      "  @override",
+      "  Widget build(BuildContext context) {",
+      "    return mxListView.list([",
+      "      ",
+      "    ]).mxScaffold();",
+      "  }",
+      "}"
+    ],
+    "description": "Widget"
+  }
+
+}

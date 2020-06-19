@@ -1,0 +1,212 @@
+{
+    "mxRow": {
+        "prefix": "mxRow",
+        "body": [
+            "mxRow.list([$1]),"
+        ],
+        "description": "mxRow"
+    },
+    "mxRowSS": {
+        "prefix": "mxRowSS",
+        "body": [
+            "mxRowSS.list([$1]),"
+        ],
+        "description": "mxRowSS"
+    },
+    "mxRowBS": {
+        "prefix": "mxRowBS",
+        "body": [
+            "mxRowBS.list([$1]),"
+        ],
+        "description": "mxRowBS"
+    },
+    "mxRowCC": {
+        "prefix": "mxRowCC",
+        "body": [
+            "mxRowCC.list([$1]),"
+        ],
+        "description": "mxRowCC"
+    },
+    "mxRowES": {
+        "prefix": "mxRowES",
+        "body": [
+            "mxRowES.list([$1]),"
+        ],
+        "description": "mxRowES"
+    },
+    "mxRowSTS": {
+        "prefix": "mxRowSTS",
+        "body": [
+            "mxRowSTS.list([$1]),"
+        ],
+        "description": "mxRowSTS"
+    },
+    "mxRowSTC": {
+        "prefix": "mxRowSTC",
+        "body": [
+            "mxRowSTC.list([$1]),"
+        ],
+        "description": "mxRowSTC"
+    },
+    "mxRowSC": {
+        "prefix": "mxRowSC",
+        "body": [
+            "mxRowSC.list([$1]),"
+        ],
+        "description": "mxRowSC"
+    },
+    "mxRowEC": {
+        "prefix": "mxRowEC",
+        "body": [
+            "mxRowEC.list([$1]),"
+        ],
+        "description": "mxRowEC"
+    },
+    "mxRowBC": {
+        "prefix": "mxRowBC",
+        "body": [
+            "mxRowBC.list([$1]),"
+        ],
+        "description": "mxRowBC"
+    },
+    "mxRowSTE": {
+        "prefix": "mxRowSTE",
+        "body": [
+            "mxRowSTE.list([$1]),"
+        ],
+        "description": "mxRowSTE"
+    },
+    "mxRowSE": {
+        "prefix": "mxRowSE",
+        "body": [
+            "mxRowSE.list([$1]),"
+        ],
+        "description": "mxRowSE"
+    },
+    "mxRowEE": {
+        "prefix": "mxRowEE",
+        "body": [
+            "mxRowEE.list([$1]),"
+        ],
+        "description": "mxRowEE"
+    },
+    "mxRowCE": {
+        "prefix": "mxRowCE",
+        "body": [
+            "mxRowCE.list([$1]),"
+        ],
+        "description": "mxRowCE"
+    },
+    "mxRowBE": {
+        "prefix": "mxRowBE",
+        "body": [
+            "mxRowBE.list([$1]),"
+        ],
+        "description": "mxRowBE"
+    },
+    "mxRowSTSA": {
+        "prefix": "mxRowSTSA",
+        "body": [
+            "mxRowSTSA.list([$1]),"
+        ],
+        "description": "mxRowSTSA"
+    },
+    "mxRowSSA": {
+        "prefix": "mxRowSSA",
+        "body": [
+            "mxRowSSA.list([$1]),"
+        ],
+        "description": "mxRowSSA"
+    },
+    "mxRowESA": {
+        "prefix": "mxRowESA",
+        "body": [
+            "mxRowESA.list([$1]),"
+        ],
+        "description": "mxRowESA"
+    },
+    "mxRowCSA": {
+        "prefix": "mxRowCSA",
+        "body": [
+            "mxRowCSA.list([$1]),"
+        ],
+        "description": "mxRowCSA"
+    },
+    "mxRowBSA": {
+        "prefix": "mxRowBSA",
+        "body": [
+            "mxRowBSA.list([$1]),"
+        ],
+        "description": "mxRowBSA"
+    },
+    "mxRowSTSB": {
+        "prefix": "mxRowSTSB",
+        "body": [
+            "mxRowSTSB.list([$1]),"
+        ],
+        "description": "mxRowSTSB"
+    },
+    "mxRowSSB": {
+        "prefix": "mxRowSSB",
+        "body": [
+            "mxRowSSB.list([$1]),"
+        ],
+        "description": "mxRowSSB"
+    },
+    "mxRowESB": {
+        "prefix": "mxRowESB",
+        "body": [
+            "mxRowESB.list([$1]),"
+        ],
+        "description": "mxRowESB"
+    },
+    "mxRowCSB": {
+        "prefix": "mxRowCSB",
+        "body": [
+            "mxRowCSB.list([$1]),"
+        ],
+        "description": "mxRowCSB"
+    },
+    "mxRowBSB": {
+        "prefix": "mxRowBSB",
+        "body": [
+            "mxRowBSB.list([$1]),"
+        ],
+        "description": "mxRowBSB"
+    },
+    "mxRowSTSE": {
+        "prefix": "mxRowSTSE",
+        "body": [
+            "mxRowSTSE.list([$1]),"
+        ],
+        "description": "mxRowSTSE"
+    },
+    "mxRowSSE": {
+        "prefix": "mxRowSSE",
+        "body": [
+            "mxRowSSE.list([$1]),"
+        ],
+        "description": "mxRowSSE"
+    },
+    "mxRowESE": {
+        "prefix": "mxRowESE",
+        "body": [
+            "mxRowESE.list([$1]),"
+        ],
+        "description": "mxRowESE"
+    },
+    "mxRowCSE": {
+        "prefix": "mxRowCSE",
+        "body": [
+            "mxRowCSE.list([$1]),"
+        ],
+        "description": "mxRowCSE"
+    },
+    "mxRowBSE": {
+        "prefix": "mxRowBSE",
+        "body": [
+            "mxRowBSE.list([$1]),"
+        ],
+        "description": "mxRowBSE"
+    }
+}

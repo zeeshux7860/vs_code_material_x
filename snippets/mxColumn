@@ -1,0 +1,212 @@
+{
+  "mxColumn": {
+    "prefix": "mxColumn",
+    "body": [
+      "mxColumn.list([$1]),"
+    ],
+    "description": "mxColumn"
+  },
+  "mxColumnSS": {
+    "prefix": "mxColumnSS",
+    "body": [
+      "mxColumnSS.list([$1]),"
+    ],
+    "description": "mxColumnSS"
+  },
+  "mxColumnBS": {
+    "prefix": "mxColumnBS",
+    "body": [
+      "mxColumnBS.list([$1]),"
+    ],
+    "description": "mxColumnBS"
+  },
+  "mxColumnCC": {
+    "prefix": "mxColumnCC",
+    "body": [
+      "mxColumnCC.list([$1]),"
+    ],
+    "description": "mxColumnCC"
+  },
+  "mxColumnES": {
+    "prefix": "mxColumnES",
+    "body": [
+      "mxColumnES.list([$1]),"
+    ],
+    "description": "mxColumnES"
+  },
+  "mxColumnSTS": {
+    "prefix": "mxColumnSTS",
+    "body": [
+      "mxColumnSTS.list([$1]),"
+    ],
+    "description": "mxColumnSTS"
+  },
+  "mxColumnSTC": {
+    "prefix": "mxColumnSTC",
+    "body": [
+      "mxColumnSTC.list([$1]),"
+    ],
+    "description": "mxColumnSTC"
+  },
+  "mxColumnSC": {
+    "prefix": "mxColumnSC",
+    "body": [
+      "mxColumnSC.list([$1]),"
+    ],
+    "description": "mxColumnSC"
+  },
+  "mxColumnEC": {
+    "prefix": "mxColumnEC",
+    "body": [
+      "mxColumnEC.list([$1]),"
+    ],
+    "description": "mxColumnEC"
+  },
+  "mxColumnBC": {
+    "prefix": "mxColumnBC",
+    "body": [
+      "mxColumnBC.list([$1]),"
+    ],
+    "description": "mxColumnBC"
+  },
+  "mxColumnSTE": {
+    "prefix": "mxColumnSTE",
+    "body": [
+      "mxColumnSTE.list([$1]),"
+    ],
+    "description": "mxColumnSTE"
+  },
+  "mxColumnSE": {
+    "prefix": "mxColumnSE",
+    "body": [
+      "mxColumnSE.list([$1]),"
+    ],
+    "description": "mxColumnSE"
+  },
+  "mxColumnEE": {
+    "prefix": "mxColumnEE",
+    "body": [
+      "mxColumnEE.list([$1]),"
+    ],
+    "description": "mxColumnEE"
+  },
+  "mxColumnCE": {
+    "prefix": "mxColumnCE",
+    "body": [
+      "mxColumnCE.list([$1]),"
+    ],
+    "description": "mxColumnCE"
+  },
+  "mxColumnBE": {
+    "prefix": "mxColumnBE",
+    "body": [
+      "mxColumnBE.list([$1]),"
+    ],
+    "description": "mxColumnBE"
+  },
+  "mxColumnSTSA": {
+    "prefix": "mxColumnSTSA",
+    "body": [
+      "mxColumnSTSA.list([$1]),"
+    ],
+    "description": "mxColumnSTSA"
+  },
+  "mxColumnSSA": {
+    "prefix": "mxColumnSSA",
+    "body": [
+      "mxColumnSSA.list([$1]),"
+    ],
+    "description": "mxColumnSSA"
+  },
+  "mxColumnESA": {
+    "prefix": "mxColumnESA",
+    "body": [
+      "mxColumnESA.list([$1]),"
+    ],
+    "description": "mxColumnESA"
+  },
+  "mxColumnCSA": {
+    "prefix": "mxColumnCSA",
+    "body": [
+      "mxColumnCSA.list([$1]),"
+    ],
+    "description": "mxColumnCSA"
+  },
+  "mxColumnBSA": {
+    "prefix": "mxColumnBSA",
+    "body": [
+      "mxColumnBSA.list([$1]),"
+    ],
+    "description": "mxColumnBSA"
+  },
+  "mxColumnSTSB": {
+    "prefix": "mxColumnSTSB",
+    "body": [
+      "mxColumnSTSB.list([$1]),"
+    ],
+    "description": "mxColumnSTSB"
+  },
+  "mxColumnSSB": {
+    "prefix": "mxColumnSSB",
+    "body": [
+      "mxColumnSSB.list([$1]),"
+    ],
+    "description": "mxColumnSSB"
+  },
+  "mxColumnESB": {
+    "prefix": "mxColumnESB",
+    "body": [
+      "mxColumnESB.list([$1]),"
+    ],
+    "description": "mxColumnESB"
+  },
+  "mxColumnCSB": {
+    "prefix": "mxColumnCSB",
+    "body": [
+      "mxColumnCSB.list([$1]),"
+    ],
+    "description": "mxColumnCSB"
+  },
+  "mxColumnBSB": {
+    "prefix": "mxColumnBSB",
+    "body": [
+      "mxColumnBSB.list([$1]),"
+    ],
+    "description": "mxColumnBSB"
+  },
+  "mxColumnSTSE": {
+    "prefix": "mxColumnSTSE",
+    "body": [
+      "mxColumnSTSE.list([$1]),"
+    ],
+    "description": "mxColumnSTSE"
+  },
+  "mxColumnSSE": {
+    "prefix": "mxColumnSSE",
+    "body": [
+      "mxColumnSSE.list([$1]),"
+    ],
+    "description": "mxColumnSSE"
+  },
+  "mxColumnESE": {
+    "prefix": "mxColumnESE",
+    "body": [
+      "mxColumnESE.list([$1]),"
+    ],
+    "description": "mxColumnESE"
+  },
+  "mxColumnCSE": {
+    "prefix": "mxColumnCSE",
+    "body": [
+      "mxColumnCSE.list([$1]),"
+    ],
+    "description": "mxColumnCSE"
+  },
+  "mxColumnBSE": {
+    "prefix": "mxColumnBSE",
+    "body": [
+      "mxColumnBSE.list([$1]),"
+    ],
+    "description": "mxColumnBSE"
+  }
+}

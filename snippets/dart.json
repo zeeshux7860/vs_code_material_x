@@ -1,0 +1,120 @@
+{
+    "start_main_sftul": {
+        "prefix": "inter",
+        "body": [
+            "import 'package:material_x/material_x.dart';",
+            "",
+            "void main() {",
+            "  runApp(MyApp());",
+            "}",
+            "",
+            "class MyApp extends StatelessWidget {",
+            "  @override",
+            "  Widget build(BuildContext context) {",
+            "    return $1().mxMaterialApp();",
+            "  }",
+            "}",
+            "",
+            "class $1 extends StatefulWidget {",
+            "  @override",
+            "  _$1State createState() => _$1State();",
+            "}",
+            "",
+            "class _$1State extends State<$1> {",
+            "  @override",
+            "  Widget build(BuildContext context) {",
+            "    return mxListView.list([",
+            "",
+            "    ]).mxScaffold();",
+            "  }",
+            "}",
+            ""
+        ],
+        "description": "Interpolate this"
+    },
+    "Widgetstless_key": {
+        "prefix": "mstl",
+        "body": [
+          "import 'package:material_x/material_x.dart';",
+          "",
+          "",
+          "class $1 extends StatelessWidget {",
+          "",
+          "  @override",
+          "  Widget build(BuildContext context) {",
+          "    return mxListView.list([",
+          "",
+          "    ]).mxScaffold();",
+          "  }",
+          "}",
+          ""
+        ],
+        "description": "Widget"
+      },
+      "Widgetstfull_key": {
+      "prefix": "mstf",
+        "scope": "dart",
+        "body": [
+          "import 'package:material_x/material_x.dart';",
+          "",
+          "class $1 extends StatefulWidget {",
+          "  @override",
+          "  _$1State createState() => _$1State();",
+          "}",
+          "",
+          "class _$1State extends State<$1> {",
+          "  @override",
+          "  Widget build(BuildContext context) {",
+          "    return mxListView.list([",
+          "      ",
+          "    ]).mxScaffold();",
+          "  }",
+          "}"
+        ],
+        "description": "Widget"
+      }
+,    
+    "mxColumn": {
+        "prefix": "mxC",
+        "body": [
+          "mxColumn.list([$1]),"
+        ],
+        "description": "mxColumn"
+      },
+      "mxRow": {
+        "prefix": "mxR",
+        "body": [
+          "mxRow.list([$1]),"
+        ],
+        "description": "mxColumn"
+      },
+      "mxListview": {
+        "prefix": "mxL",
+        "body": [
+          "mxListview.list([$1]),"
+        ],
+        "description": "mxColumn"
+      },
+      "initState": {
+        "prefix": "mxinit",
+        "body": [
+          " @override",
+          "  void initState() {",
+        
+          "    super.initState();",
+          "  }"
+        ],
+        "description": "initState"
+      },
+      "dispose": {
+        "prefix": "mxdis",
+        "body": [
+          "@override",
+          "  void dispose() {",
+          "    // TODO: implement dispose",
+          "    super.dispose();",
+          "  }"
+        ],
+        "description": "dispose"
+      }
+}

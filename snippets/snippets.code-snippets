@@ -1,0 +1,43 @@
+{
+  "mxListView": {
+    "prefix": "mxListView",
+    "body": [
+      "mxListView.list([$1]),"
+    ],
+    "description": "mxListView"
+  },
+  "mxListViewBuilder": {
+    "prefix": [
+      "mxLVB",
+      "()"
+    ],
+    "body": [
+      "(context,index){}.mxListVB(itemCount: null),"
+    ],
+    "description": "mxListViewBuilder"
+  },
+  "mxListViewBuilderHorizintal": {
+    "prefix": [
+      "mxLVBH",
+      "()"
+    ],
+    "body": [
+      "(context,index){}.mxListVBH(itemCount: null).mxContainer(height: $1),"
+    ],
+    "description": "mxListViewBuilder"
+  },
+  "mxContainer": {
+    "prefix": "mxc",
+    "body": [
+      ".mxContainer()"
+    ],
+    "description": "mxContainer"
+  },
+  "mxAppBar": {
+    "prefix": "mxAppBar",
+    "body": [
+      ".mxAppBar()"
+    ],
+    "description": "mxAppBar"
+  },
+}
